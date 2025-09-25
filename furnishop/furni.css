@@ -17,10 +17,11 @@ header {
 }
 
 header .logo {
+  box-sizing: border-box;
   font-size: 1.5em;
   font-weight: bold;
-  background-color: rgb(9, 9, 9);
-  color: #ddd;
+  background-color: rgb(232, 218, 218);
+  color: #060505;
 }
 
 header nav a {
@@ -37,7 +38,7 @@ header nav a:hover {
 .hero {
   text-align: center;
   padding: 60px 20px;
-  background: #f4f4f4;
+  background: #d8d7de;
 }
 
 .hero h1 {
