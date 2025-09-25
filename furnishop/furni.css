@@ -13,12 +13,14 @@ header {
   align-items: center;
   background: #333;
   padding: 15px 30px;
-  color: #fff;
+  color: #3f3838;
 }
 
 header .logo {
   font-size: 1.5em;
   font-weight: bold;
+  background-color: rgb(9, 9, 9);
+  color: #ddd;
 }
 
 header nav a {
